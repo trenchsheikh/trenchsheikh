@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **0em Labs**
 
-- 👨‍💻 All of my projects are available at [Linkedin: https://linkedin.com/in/samitahir1](Linkedin: https://linkedin.com/in/samitahir1)
+- 👨‍💻 All of my projects are available at [Linkedin: https://linkedin.com/in/samitahir1]
 
 - 💬 Ask me about **Blockchain**
 
