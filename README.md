@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sami Tahir</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **0em Labs**
+- 🔭 I’m currently working at **0em Labs**
 
 - 👨‍💻 All of my projects are available at [Linkedin: https://linkedin.com/in/samitahir1]
 
-- 💬 Ask me about **Blockchain**
+- 💬 Ask me about **Anything Crypto Blockchain AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
