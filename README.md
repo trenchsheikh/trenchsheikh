@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sami Tahir</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center">YoYo, It's Sami T</h1>
+<h3 align="center">Cracked Dev</h3>
 
-- 🔭 I’m currently working at **0em Labs**
+- 🔭 Currently working @ **0em Labs**
 
 - 👨‍💻 All of my projects are available at [Linkedin: https://linkedin.com/in/samitahir1]
 
