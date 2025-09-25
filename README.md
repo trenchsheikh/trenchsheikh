@@ -3,8 +3,6 @@
 
 - 🔭 Currently working @ **0em Labs**
 
-- 👨‍💻 All of my projects are available at [Linkedin: https://linkedin.com/in/samitahir1]
-
 - 💬 Ask me about **Anything Crypto Blockchain AI**
 
 <h3 align="left">Connect with me:</h3>
