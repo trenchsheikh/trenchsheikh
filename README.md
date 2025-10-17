@@ -1,7 +1,7 @@
 <h1 align="center">YoYo, It's Sami T</h1>
 <h3 align="center">Cracked Dev</h3>
 
-- 🔭 Currently working @ **0em Labs**
+- 🔭 Currently working **OnChain**
 
 - 💬 Ask me about **Anything Crypto Blockchain AI**
 
