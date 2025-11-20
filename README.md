@@ -1,13 +1,77 @@
-<h1 align="center">YoYo, It's Sami T</h1>
-<h3 align="center">Cracked Dev</h3>
+<h1 align="center">Sami T</h1>
+<h3 align="center">Full-Stack · Web3 · AI Engineer</h3>
 
-- 🔭 Currently working **OnChain**
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=trenchsheikh&style=flat" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=trenchsheikh&style=flat" alt="profile views" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/trenchsheikh?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/trenchsheikh?style=flat" alt="GitHub followers" />
+  </a>
 
-- 💬 Ask me about **Anything Crypto Blockchain AI**
+---
 
-<h3 align="left">Connect with me:</h3>
+### ⚡ What I Do
+
+- Ship **end-to-end products** across Web2 + Web3 (from idea → MVP → production).
+- Build **on-chain systems**: smart contracts, trading flows, bots, and automation.
+- Craft **AI-powered tools**: agents, voice systems, and autonomous micro-traders.
+- Design **real-time dashboards**, APIs, and infra for founders and teams.
+
+> Cracked dev energy: ship first, polish while it scales.
+
+---
+
+### 🧠 Current Focus
+
+- On-chain AI trading agents & prediction markets  
+- Crypto + fintech infrastructure (stablecoins, payments, bots)  
+- High-speed MVPs for startups, creators, and communities  
+- Mobile apps (iOS + Android) powered by AI + on-chain rails  
+
+---
+
+### 🛠️ Tech Stack
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,solidity,react,next,nodejs,express,tailwind,html,css,redux,vitest,webpack,github,git,cloudflare,supabase,vercel,aws,gcp,postgres,mongodb,redis,docker,linux" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=trenchsheikh&theme=radical&hide_border=false"
+      alt="GitHub streak"
+    />
+  </a>
+</p>
+
+---
+
+### 🧱 Selected Builds
+
+- **LobSmash** – AI-powered padel coaching app with video breakdowns and training plans.  
+- **DarkBet** – On-chain prediction + trading terminal with real-time dashboards.  
+- **Zlink** – Telegram-native Zcash exchange via magic links and multi-chain deposits.  
+- **Agentic Payments** – Stablecoin-native agentic payment rails & token tracking.
+
+> Most of my work ships fast, evolves in public, and gets refactored as it scales.
+
+---
+
+### 🌍 Connect
+
+- **X / Twitter:** <a href="https://x.com/trenchsheikh" target="_blank">@trenchsheikh</a>  
+- **LinkedIn:** <a href="https://linkedin.com/in/samitahir1" target="_blank">linkedin.com/in/samitahir1</a>  
+- **Website / Portfolio:** <a href="https://samitahir.xyz" target="_blank">samitahir.xyz</a>  
+
+---
+
+<p align="center">
+  <i>Building across AI, Web3, and whatever else breaks the old rules.</i>
+</p>
