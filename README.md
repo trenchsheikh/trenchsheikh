@@ -68,9 +68,6 @@
 ## 🌐 Connect
 
 - **X / Twitter:** <a href="https://x.com/trenchsheikh" target="_blank">@trenchsheikh</a>  
-- **LinkedIn:** <a href="https://linkedin.com/in/samitahir1" target="_blank">linkedin.com/in/samitahir1</a>  
-- **Website:** <a href="https://samitahir.xyz" target="_blank">samitahir.xyz</a>  
-
 ---
 
 <!-- Closing typing animation -->
